@@ -24,7 +24,6 @@ How do transactions vary by day of the week?
 What is the average account balance of customers segmented by their tenure?
 What are the key segments of customers based on age, gender, location, and account balance?
 
------done with analysis---
 
 🎗️Summary of Findings in Customer Segmentation Analysis🎗️
 Demographic Insights:➡️
